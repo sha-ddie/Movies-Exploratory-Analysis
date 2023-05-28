@@ -1,6 +1,6 @@
 # Movie Attributes That Contribute to High Box Office Revenues.
 
-![pictue](data/film-production.jpg)
+![pictue](images/film-production.jpg)
 Photo was obtained [here](https://academy.wedio.com/filmmaking)
 
 ## Introduction
@@ -55,7 +55,7 @@ The data was checked for missing values duplicates and placeholders of missing d
 ## Data Analysis
 ***
 From the analysis, the following visualizations about the most-selling movie genres and the top production studios were ;  
-![](data/analysis.png)
+![](images/analysis.png)
 For a preview of the complete analysis process, here is the link to the [Notebook](https://github.com/sha-ddie/Phase-1-Project/blob/main/Student.ipynb)
 
 ## Conclusions
